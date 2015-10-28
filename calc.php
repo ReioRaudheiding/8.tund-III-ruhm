@@ -16,15 +16,9 @@
 	
 	$result = 0;
 	
-	$result2 = 0;
-	
-	$result = multiply(2,5);
-	
 	$result2 = divide(2,5);
 	
 	var_dump($result);
-	
-	var_dump($result2);
 	
 	$multiply_result = $divide_result = 0;
 	
